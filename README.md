@@ -39,7 +39,7 @@
 
 ## **🔌 Connect with Me**
 
-- LinkedIn
+- [LinkedIn](www.linkedin.com/in/mobolanle-olamolu)
 
 
 <!---
