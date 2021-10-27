@@ -22,7 +22,7 @@
 
 ## **📚 Projects & Guides**
 
-### - Click HERE for my projects and guides.
+### - Click [HERE](https://github.com/bolamolu/Portfolio-Guide) for my projects and guides.
 
 
 
